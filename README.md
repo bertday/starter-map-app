@@ -30,22 +30,24 @@ Starter Map App uses an opinionated stack of:
 
 ## How do I work on this?
 
+### Install dependencies
+
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run a local dev server
 
 ```sh
 pnpm dev
 ```
 
-### Compile and Minify for Production
+### Compile for production
 
 ```sh
 pnpm build
 ```
 
-### Recommended IDE Setup
+### Recommended IDE setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
