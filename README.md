@@ -13,7 +13,7 @@ Something like this:
 Starter Map App uses an opinionated stack of:
 
 - [Vue 3](https://vuejs.org/): because Vue is easy
-- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/): because MapLibre works with [PMTiles](https://github.com/protomaps/PMTiles) which are easier to manage than Mapbox vector tiles in an `z/y/x` store
+- [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/): because MapLibre works with [PMTiles](https://github.com/protomaps/PMTiles) which are easier to manage than Mapbox vector tiles
 - [Tailwind CSS](https://tailwindcss.com/): because a friend told me to stop using Bootstrap
 - [daisyUI](https://daisyui.com/): because it gives you nice Tailwind components
 - [Heroicons](https://heroicons.com/): because they're free and designed to work with Tailwind
